@@ -1,0 +1,183 @@
+27 Jan 2018 12:48:59 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2018 12:48:59 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+27 Jan 2018 13:14:14 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2018 13:14:14 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+27 Jan 2018 13:19:34 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2018 13:19:34 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+27 Jan 2018 13:26:07 GMT: diagnostics = javax.tools.DiagnosticCollector@583135
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bef443
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 13:26:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c0862' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 13:26:08 GMT: Compiler call returned
+27 Jan 2018 13:57:37 GMT: diagnostics = javax.tools.DiagnosticCollector@d0a803
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@323dd5
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 13:57:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c32d8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 13:57:38 GMT: Compiler call returned
+27 Jan 2018 14:02:38 GMT: diagnostics = javax.tools.DiagnosticCollector@862a98
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14a94ef
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 14:02:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16ea90' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 14:02:38 GMT: Compiler call returned
+27 Jan 2018 14:07:55 GMT: diagnostics = javax.tools.DiagnosticCollector@9f0e7b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@86b635
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 14:07:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@111efb6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 14:07:56 GMT: Compiler call returned
+27 Jan 2018 14:08:12 GMT: diagnostics = javax.tools.DiagnosticCollector@679dba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f7171
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 14:08:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a64885' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 14:08:13 GMT: Compiler call returned
+27 Jan 2018 14:50:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1892eb6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15c5d27
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 14:50:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1474149' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 14:50:15 GMT: Compiler call returned
+27 Jan 2018 14:53:08 GMT: diagnostics = javax.tools.DiagnosticCollector@c10707
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8845ef
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 14:53:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c0d431' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 14:53:08 GMT: Compiler call returned
+27 Jan 2018 15:49:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1a0b502
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12129a2
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 15:49:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fe5832' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 15:49:27 GMT: Compiler call returned
+27 Jan 2018 15:53:33 GMT: diagnostics = javax.tools.DiagnosticCollector@12477d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ccbf4d
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 15:53:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@68b76c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 15:53:34 GMT: Compiler call returned
+27 Jan 2018 15:54:06 GMT: diagnostics = javax.tools.DiagnosticCollector@18664df
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3261b6
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 15:54:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@181971e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 15:54:06 GMT: Compiler call returned
+27 Jan 2018 15:57:28 GMT: diagnostics = javax.tools.DiagnosticCollector@12a9e49
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17109c3
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 15:57:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@114361b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 15:57:28 GMT: Compiler call returned
+27 Jan 2018 15:58:23 GMT: diagnostics = javax.tools.DiagnosticCollector@15e8033
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1750a87
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 15:58:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@41b044' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 15:58:23 GMT: Compiler call returned
+27 Jan 2018 16:02:17 GMT: diagnostics = javax.tools.DiagnosticCollector@1d23eb0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@674ccb
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:02:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38cdd2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:02:17 GMT: Compiler call returned
+27 Jan 2018 16:02:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e54fab
+27 Jan 2018 16:02:17 GMT:  Kind = WARNING
+27 Jan 2018 16:02:17 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 168 ColNo = 13 Msg = 'The value of the local variable j is not used'
+27 Jan 2018 16:10:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1b85545
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dfcc19
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:10:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cd7917' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:10:04 GMT: Compiler call returned
+27 Jan 2018 16:10:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b9c929
+27 Jan 2018 16:10:04 GMT:  Kind = WARNING
+27 Jan 2018 16:10:04 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 168 ColNo = 13 Msg = 'The value of the local variable j is not used'
+27 Jan 2018 16:10:39 GMT: diagnostics = javax.tools.DiagnosticCollector@7777cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4c6f45
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:10:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ab9b02' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:10:39 GMT: Compiler call returned
+27 Jan 2018 16:10:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df94c2
+27 Jan 2018 16:10:39 GMT:  Kind = WARNING
+27 Jan 2018 16:10:39 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 168 ColNo = 13 Msg = 'The value of the local variable j is not used'
+27 Jan 2018 16:22:07 GMT: diagnostics = javax.tools.DiagnosticCollector@1fe2cc6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10f19ed
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:22:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12258a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:22:08 GMT: Compiler call returned
+27 Jan 2018 16:22:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a3a65
+27 Jan 2018 16:22:08 GMT:  Kind = ERROR
+27 Jan 2018 16:22:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 168 ColNo = 15 Msg = 'sourc cannot be resolved to a variable'
+27 Jan 2018 16:22:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc4050
+27 Jan 2018 16:22:08 GMT:  Kind = ERROR
+27 Jan 2018 16:22:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 169 ColNo = 9 Msg = 'ink cannot be resolved to a type'
+27 Jan 2018 16:22:15 GMT: diagnostics = javax.tools.DiagnosticCollector@179775b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c03369
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:22:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@81f52c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:22:15 GMT: Compiler call returned
+27 Jan 2018 16:22:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a33eb
+27 Jan 2018 16:22:15 GMT:  Kind = ERROR
+27 Jan 2018 16:22:15 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 169 ColNo = 9 Msg = 'ink cannot be resolved to a type'
+27 Jan 2018 16:22:21 GMT: diagnostics = javax.tools.DiagnosticCollector@1fec5eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6762d3
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:22:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1480393' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:22:21 GMT: Compiler call returned
+27 Jan 2018 16:22:44 GMT: diagnostics = javax.tools.DiagnosticCollector@9e957a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@eb1e03
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:22:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@165395f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:22:44 GMT: Compiler call returned
+27 Jan 2018 16:23:11 GMT: diagnostics = javax.tools.DiagnosticCollector@f0d986
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b6ca6b
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:23:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@182b342' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:23:11 GMT: Compiler call returned
+27 Jan 2018 16:23:48 GMT: diagnostics = javax.tools.DiagnosticCollector@4427c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc87e1
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:23:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9cac29' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:23:48 GMT: Compiler call returned
+27 Jan 2018 16:24:35 GMT: diagnostics = javax.tools.DiagnosticCollector@d76f48
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5d3384
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 16:24:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@41233d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 16:24:35 GMT: Compiler call returned
+27 Jan 2018 16:38:07 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2018 16:38:07 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+27 Jan 2018 16:42:17 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2018 16:42:17 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+27 Jan 2018 17:29:19 GMT: diagnostics = javax.tools.DiagnosticCollector@b82e6e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16ccf9a
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:29:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ca57fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:29:20 GMT: Compiler call returned
+27 Jan 2018 17:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1429838
+27 Jan 2018 17:29:20 GMT:  Kind = ERROR
+27 Jan 2018 17:29:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 193 ColNo = 12 Msg = 'siz cannot be resolved to a variable'
+27 Jan 2018 17:29:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d0f1d
+27 Jan 2018 17:29:20 GMT:  Kind = ERROR
+27 Jan 2018 17:29:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 193 ColNo = 21 Msg = 'size cannot be resolved or is not a field'
+27 Jan 2018 17:29:26 GMT: diagnostics = javax.tools.DiagnosticCollector@eb717d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18c442e
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:29:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1942a3a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:29:26 GMT: Compiler call returned
+27 Jan 2018 17:29:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bca65a
+27 Jan 2018 17:29:26 GMT:  Kind = ERROR
+27 Jan 2018 17:29:26 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 193 ColNo = 22 Msg = 'size cannot be resolved or is not a field'
+27 Jan 2018 17:29:34 GMT: diagnostics = javax.tools.DiagnosticCollector@f16cf3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@feaffa
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:29:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b78533' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:29:34 GMT: Compiler call returned
+27 Jan 2018 17:31:22 GMT: diagnostics = javax.tools.DiagnosticCollector@197b2da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10ef021
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:31:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16866a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:31:22 GMT: Compiler call returned
+27 Jan 2018 17:33:09 GMT: diagnostics = javax.tools.DiagnosticCollector@149fb2a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17868fd
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:33:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1278b94' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:33:09 GMT: Compiler call returned
+27 Jan 2018 17:57:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1729dd5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e0658
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:57:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f9716d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:57:48 GMT: Compiler call returned
+27 Jan 2018 17:57:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e6d6fd
+27 Jan 2018 17:57:48 GMT:  Kind = ERROR
+27 Jan 2018 17:57:48 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java LineNo = 226 ColNo = 45 Msg = 'lenght cannot be resolved or is not a field'
+27 Jan 2018 17:57:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1220fed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a1ad34
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\LinearArray.java]
+27 Jan 2018 17:57:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1990e6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+27 Jan 2018 17:57:57 GMT: Compiler call returned
+28 Jan 2018 21:11:24 GMT: Log 'EclipseCompiler.txt' opened: 28 Jan 2018 21:11:24 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 2\EclipseCompiler.txt
+1 Oct 2018 16:25:38 GMT: Log 'EclipseCompiler.txt' opened: 1 Oct 2018 16:25:38 GMT with name F:\Downloads\CSE220\CSE220\Lab 2\EclipseCompiler.txt
+23 Jan 2019 11:06:09 GMT: Log 'EclipseCompiler.txt' opened: 23 Jan 2019 11:06:09 GMT with name F:\Downloads\CSE220\CSE220\Lab 2\EclipseCompiler.txt

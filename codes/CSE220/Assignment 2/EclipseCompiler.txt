@@ -1,0 +1,1 @@
+29 Oct 2018 19:44:24 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2018 19:44:24 GMT with name F:\Downloads\CSE220\CSE220\Assignment 2\EclipseCompiler.txt

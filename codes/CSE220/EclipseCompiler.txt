@@ -1,0 +1,421 @@
+24 Jan 2018 16:59:52 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2018 16:59:52 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\EclipseCompiler.txt
+24 Jan 2018 17:00:05 GMT: diagnostics = javax.tools.DiagnosticCollector@70c4ca
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e4525d
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:00:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d4d5dc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:00:06 GMT: Compiler call returned
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fcc260
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16765dc
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 5 ColNo = 31 Msg = 'Syntax error on token "i", delete this token'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f45fd2
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 5 ColNo = 38 Msg = 'Syntax error, insert "( )" to complete Expression'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@134f6c5
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 11 ColNo = 17 Msg = 'b cannot be resolved to a variable'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f34a05
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 17 ColNo = 15 Msg = 'balane cannot be resolved to a variable'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c9402
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1555398
+24 Jan 2018 17:00:06 GMT:  Kind = ERROR
+24 Jan 2018 17:00:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:00:11 GMT: diagnostics = javax.tools.DiagnosticCollector@be9893
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1694daa
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:00:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@113826f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:00:11 GMT: Compiler call returned
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6e875
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b2e946
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 5 ColNo = 31 Msg = 'Syntax error on token "i", delete this token'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14daaf4
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 5 ColNo = 38 Msg = 'Syntax error, insert "( )" to complete Expression'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1afb661
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 11 ColNo = 17 Msg = 'b cannot be resolved to a variable'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b50021
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 17 ColNo = 15 Msg = 'balane cannot be resolved to a variable'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e32d28
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c5248a
+24 Jan 2018 17:00:11 GMT:  Kind = ERROR
+24 Jan 2018 17:00:11 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:00:27 GMT: diagnostics = javax.tools.DiagnosticCollector@6b3e1c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1849c78
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:00:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e65557' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:00:27 GMT: Compiler call returned
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d96cc1
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c6200a
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 11 ColNo = 17 Msg = 'b cannot be resolved to a variable'
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a6bff8
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 17 ColNo = 15 Msg = 'balane cannot be resolved to a variable'
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fed863
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15d1a39
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:00:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@151b628
+24 Jan 2018 17:00:27 GMT:  Kind = ERROR
+24 Jan 2018 17:00:27 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 5 ColNo = 31 Msg = 'Syntax error on token "i", delete this token'
+24 Jan 2018 17:00:49 GMT: diagnostics = javax.tools.DiagnosticCollector@193be19
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dccfe9
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:00:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@105f8a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:00:49 GMT: Compiler call returned
+24 Jan 2018 17:00:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f564b0
+24 Jan 2018 17:00:49 GMT:  Kind = ERROR
+24 Jan 2018 17:00:49 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c7e99
+24 Jan 2018 17:00:49 GMT:  Kind = ERROR
+24 Jan 2018 17:00:49 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 11 ColNo = 17 Msg = 'b cannot be resolved to a variable'
+24 Jan 2018 17:00:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce9d3e
+24 Jan 2018 17:00:49 GMT:  Kind = ERROR
+24 Jan 2018 17:00:49 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 17 ColNo = 15 Msg = 'balane cannot be resolved to a variable'
+24 Jan 2018 17:00:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@84e9f2
+24 Jan 2018 17:00:49 GMT:  Kind = ERROR
+24 Jan 2018 17:00:49 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:00:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d6d776
+24 Jan 2018 17:00:49 GMT:  Kind = ERROR
+24 Jan 2018 17:00:49 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:01:16 GMT: diagnostics = javax.tools.DiagnosticCollector@c08c1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7dad79
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java]
+24 Jan 2018 17:01:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8e96d7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:01:17 GMT: Compiler call returned
+24 Jan 2018 17:01:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@181b0fb
+24 Jan 2018 17:01:17 GMT:  Kind = ERROR
+24 Jan 2018 17:01:17 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:01:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f35268
+24 Jan 2018 17:01:17 GMT:  Kind = ERROR
+24 Jan 2018 17:01:17 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:01:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@130d905
+24 Jan 2018 17:01:17 GMT:  Kind = ERROR
+24 Jan 2018 17:01:17 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 17 ColNo = 15 Msg = 'balane cannot be resolved to a variable'
+24 Jan 2018 17:01:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1915c02
+24 Jan 2018 17:01:17 GMT:  Kind = ERROR
+24 Jan 2018 17:01:17 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:02:31 GMT: diagnostics = javax.tools.DiagnosticCollector@1c7d11b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ddb2d4
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java]
+24 Jan 2018 17:02:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b3c48e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:02:31 GMT: Compiler call returned
+24 Jan 2018 17:02:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e01c57
+24 Jan 2018 17:02:31 GMT:  Kind = ERROR
+24 Jan 2018 17:02:31 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:02:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19029c1
+24 Jan 2018 17:02:31 GMT:  Kind = ERROR
+24 Jan 2018 17:02:31 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 7 ColNo = 56 Msg = 'w cannot be resolved to a variable'
+24 Jan 2018 17:02:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ffb577
+24 Jan 2018 17:02:31 GMT:  Kind = WARNING
+24 Jan 2018 17:02:31 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:02:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c28eb
+24 Jan 2018 17:02:31 GMT:  Kind = WARNING
+24 Jan 2018 17:02:31 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:02:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13797d7
+24 Jan 2018 17:02:31 GMT:  Kind = ERROR
+24 Jan 2018 17:02:31 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:05:53 GMT: diagnostics = javax.tools.DiagnosticCollector@8457a6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b6a1fa
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:05:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1059926' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:05:53 GMT: Compiler call returned
+24 Jan 2018 17:05:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7340f4
+24 Jan 2018 17:05:53 GMT:  Kind = ERROR
+24 Jan 2018 17:05:53 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:05:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fc5d67
+24 Jan 2018 17:05:53 GMT:  Kind = WARNING
+24 Jan 2018 17:05:53 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:05:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f5dd26
+24 Jan 2018 17:05:53 GMT:  Kind = WARNING
+24 Jan 2018 17:05:53 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:05:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@82d3aa
+24 Jan 2018 17:05:53 GMT:  Kind = ERROR
+24 Jan 2018 17:05:53 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1c96bdc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@542ee8
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:09:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@250168' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:09:01 GMT: Compiler call returned
+24 Jan 2018 17:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10bb8e
+24 Jan 2018 17:09:01 GMT:  Kind = ERROR
+24 Jan 2018 17:09:01 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176a099
+24 Jan 2018 17:09:01 GMT:  Kind = WARNING
+24 Jan 2018 17:09:01 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19bcf26
+24 Jan 2018 17:09:01 GMT:  Kind = WARNING
+24 Jan 2018 17:09:01 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b8e5c
+24 Jan 2018 17:09:01 GMT:  Kind = ERROR
+24 Jan 2018 17:09:01 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1869492
+24 Jan 2018 17:09:01 GMT:  Kind = ERROR
+24 Jan 2018 17:09:01 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 12 ColNo = 16 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:14 GMT: diagnostics = javax.tools.DiagnosticCollector@14826e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9eee27
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:09:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1603502' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:09:14 GMT: Compiler call returned
+24 Jan 2018 17:09:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c030ff
+24 Jan 2018 17:09:14 GMT:  Kind = ERROR
+24 Jan 2018 17:09:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 45 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4a1ef
+24 Jan 2018 17:09:14 GMT:  Kind = WARNING
+24 Jan 2018 17:09:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:09:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@182ff3d
+24 Jan 2018 17:09:14 GMT:  Kind = WARNING
+24 Jan 2018 17:09:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:09:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eac5a9
+24 Jan 2018 17:09:14 GMT:  Kind = ERROR
+24 Jan 2018 17:09:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 22 ColNo = 19 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:09:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1925003
+24 Jan 2018 17:09:14 GMT:  Kind = ERROR
+24 Jan 2018 17:09:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 12 ColNo = 16 Msg = 'No exception of type Exception can be thrown; an exception type must be a subclass of Throwable'
+24 Jan 2018 17:15:13 GMT: diagnostics = javax.tools.DiagnosticCollector@df44c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16f1a0a
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:15:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1756b03' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:15:13 GMT: Compiler call returned
+24 Jan 2018 17:15:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@794d79
+24 Jan 2018 17:15:13 GMT:  Kind = WARNING
+24 Jan 2018 17:15:13 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:15:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@928029
+24 Jan 2018 17:15:13 GMT:  Kind = WARNING
+24 Jan 2018 17:15:13 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:15:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f837a2
+24 Jan 2018 17:15:13 GMT:  Kind = ERROR
+24 Jan 2018 17:15:13 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 19 Msg = 'This method must return a result of type java.lang.String'
+24 Jan 2018 17:15:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@449bc6
+24 Jan 2018 17:15:13 GMT:  Kind = ERROR
+24 Jan 2018 17:15:13 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 9 ColNo = 9 Msg = 'Unhandled exception type Exception'
+24 Jan 2018 17:15:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@501432
+24 Jan 2018 17:15:13 GMT:  Kind = WARNING
+24 Jan 2018 17:15:13 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:15:19 GMT: diagnostics = javax.tools.DiagnosticCollector@d16770
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f7e3b6
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:15:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@429f1f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:15:19 GMT: Compiler call returned
+24 Jan 2018 17:15:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50810
+24 Jan 2018 17:15:19 GMT:  Kind = WARNING
+24 Jan 2018 17:15:19 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:15:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29ba11
+24 Jan 2018 17:15:19 GMT:  Kind = WARNING
+24 Jan 2018 17:15:19 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:15:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cb61c4
+24 Jan 2018 17:15:19 GMT:  Kind = ERROR
+24 Jan 2018 17:15:19 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 19 Msg = 'This method must return a result of type java.lang.String'
+24 Jan 2018 17:15:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f7b6ba
+24 Jan 2018 17:15:19 GMT:  Kind = ERROR
+24 Jan 2018 17:15:19 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 9 ColNo = 9 Msg = 'Unhandled exception type Exception'
+24 Jan 2018 17:15:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b2643c
+24 Jan 2018 17:15:19 GMT:  Kind = WARNING
+24 Jan 2018 17:15:19 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:15:20 GMT: diagnostics = javax.tools.DiagnosticCollector@caea15
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ad528a
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:15:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@40adba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:15:20 GMT: Compiler call returned
+24 Jan 2018 17:15:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10692f7
+24 Jan 2018 17:15:20 GMT:  Kind = WARNING
+24 Jan 2018 17:15:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:15:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ca7f8
+24 Jan 2018 17:15:20 GMT:  Kind = WARNING
+24 Jan 2018 17:15:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:15:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fd170c
+24 Jan 2018 17:15:20 GMT:  Kind = ERROR
+24 Jan 2018 17:15:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 19 Msg = 'This method must return a result of type java.lang.String'
+24 Jan 2018 17:15:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f5d984
+24 Jan 2018 17:15:20 GMT:  Kind = ERROR
+24 Jan 2018 17:15:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 9 ColNo = 9 Msg = 'Unhandled exception type Exception'
+24 Jan 2018 17:15:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b7427
+24 Jan 2018 17:15:20 GMT:  Kind = WARNING
+24 Jan 2018 17:15:20 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:15:23 GMT: diagnostics = javax.tools.DiagnosticCollector@11bb1a1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16bb5fd
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:15:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@149308e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:15:24 GMT: Compiler call returned
+24 Jan 2018 17:15:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10262e5
+24 Jan 2018 17:15:24 GMT:  Kind = WARNING
+24 Jan 2018 17:15:24 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:15:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad0643
+24 Jan 2018 17:15:24 GMT:  Kind = WARNING
+24 Jan 2018 17:15:24 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:15:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19697db
+24 Jan 2018 17:15:24 GMT:  Kind = ERROR
+24 Jan 2018 17:15:24 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java LineNo = 16 ColNo = 19 Msg = 'This method must return a result of type java.lang.String'
+24 Jan 2018 17:15:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee643e
+24 Jan 2018 17:15:24 GMT:  Kind = ERROR
+24 Jan 2018 17:15:24 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 9 ColNo = 9 Msg = 'Unhandled exception type Exception'
+24 Jan 2018 17:15:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1592f6c
+24 Jan 2018 17:15:24 GMT:  Kind = WARNING
+24 Jan 2018 17:15:24 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:16:13 GMT: diagnostics = javax.tools.DiagnosticCollector@a10490
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a3cc42
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java]
+24 Jan 2018 17:16:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@157a00d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:16:14 GMT: Compiler call returned
+24 Jan 2018 17:16:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11cb3a7
+24 Jan 2018 17:16:14 GMT:  Kind = WARNING
+24 Jan 2018 17:16:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:16:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153cf1e
+24 Jan 2018 17:16:14 GMT:  Kind = WARNING
+24 Jan 2018 17:16:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:16:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@430895
+24 Jan 2018 17:16:14 GMT:  Kind = ERROR
+24 Jan 2018 17:16:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java LineNo = 9 ColNo = 9 Msg = 'Unhandled exception type Exception'
+24 Jan 2018 17:16:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55930
+24 Jan 2018 17:16:14 GMT:  Kind = WARNING
+24 Jan 2018 17:16:14 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:16:48 GMT: diagnostics = javax.tools.DiagnosticCollector@118c744
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bb9fb0
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:16:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e5fce6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:16:48 GMT: Compiler call returned
+24 Jan 2018 17:16:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8c3898
+24 Jan 2018 17:16:48 GMT:  Kind = WARNING
+24 Jan 2018 17:16:48 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:16:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11fc05a
+24 Jan 2018 17:16:48 GMT:  Kind = WARNING
+24 Jan 2018 17:16:48 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:16:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102f877
+24 Jan 2018 17:16:48 GMT:  Kind = WARNING
+24 Jan 2018 17:16:48 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:06 GMT: diagnostics = javax.tools.DiagnosticCollector@3a633e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4b27e2
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@21207d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:06 GMT: Compiler call returned
+24 Jan 2018 17:17:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed9970
+24 Jan 2018 17:17:06 GMT:  Kind = WARNING
+24 Jan 2018 17:17:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5cfee
+24 Jan 2018 17:17:06 GMT:  Kind = WARNING
+24 Jan 2018 17:17:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e47092
+24 Jan 2018 17:17:06 GMT:  Kind = WARNING
+24 Jan 2018 17:17:06 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:07 GMT: diagnostics = javax.tools.DiagnosticCollector@1b93def
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6bf6
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1157e06' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:07 GMT: Compiler call returned
+24 Jan 2018 17:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ccb30
+24 Jan 2018 17:17:07 GMT:  Kind = WARNING
+24 Jan 2018 17:17:07 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c7720
+24 Jan 2018 17:17:07 GMT:  Kind = WARNING
+24 Jan 2018 17:17:07 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@371da4
+24 Jan 2018 17:17:07 GMT:  Kind = WARNING
+24 Jan 2018 17:17:07 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:08 GMT: diagnostics = javax.tools.DiagnosticCollector@1dbd512
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10beb88
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8e20c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:08 GMT: Compiler call returned
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b63bd
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@132422f
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@130c573
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:08 GMT: diagnostics = javax.tools.DiagnosticCollector@c452de
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e010ec
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ee3686' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:08 GMT: Compiler call returned
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc2d8a
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd0077
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17681b0
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:08 GMT: diagnostics = javax.tools.DiagnosticCollector@634648
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13a3656
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19b77fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:08 GMT: Compiler call returned
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12190c
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e11b8c
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17b6de4
+24 Jan 2018 17:17:08 GMT:  Kind = WARNING
+24 Jan 2018 17:17:08 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:09 GMT: diagnostics = javax.tools.DiagnosticCollector@f1744c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c61e4
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d84dfa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:09 GMT: Compiler call returned
+24 Jan 2018 17:17:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28c700
+24 Jan 2018 17:17:09 GMT:  Kind = WARNING
+24 Jan 2018 17:17:09 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a0790
+24 Jan 2018 17:17:09 GMT:  Kind = WARNING
+24 Jan 2018 17:17:09 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c1698
+24 Jan 2018 17:17:09 GMT:  Kind = WARNING
+24 Jan 2018 17:17:09 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:17:33 GMT: diagnostics = javax.tools.DiagnosticCollector@63f8b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cdb175
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\Lab10Task05.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java]
+24 Jan 2018 17:17:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12a8756' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2;C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:17:34 GMT: Compiler call returned
+24 Jan 2018 17:17:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c9f1c
+24 Jan 2018 17:17:34 GMT:  Kind = WARNING
+24 Jan 2018 17:17:34 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 5 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+24 Jan 2018 17:17:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ca61aa
+24 Jan 2018 17:17:34 GMT:  Kind = WARNING
+24 Jan 2018 17:17:34 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Lab 1\Part 2\MyReader.java LineNo = 7 ColNo = 13 Msg = 'The value of the local variable answer is not used'
+24 Jan 2018 17:17:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16fc7fb
+24 Jan 2018 17:17:34 GMT:  Kind = WARNING
+24 Jan 2018 17:17:34 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:44:12 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2018 17:44:12 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\EclipseCompiler.txt
+24 Jan 2018 17:49:25 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2018 17:49:25 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\EclipseCompiler.txt
+24 Jan 2018 17:51:06 GMT: diagnostics = javax.tools.DiagnosticCollector@6c7b65
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6a11e
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\Bank_Balance.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Customer.java, C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java]
+24 Jan 2018 17:51:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c8d30a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+24 Jan 2018 17:51:07 GMT: Compiler call returned
+24 Jan 2018 17:51:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24212c
+24 Jan 2018 17:51:07 GMT:  Kind = WARNING
+24 Jan 2018 17:51:07 GMT: Name = C:\Users\Schrodinger's Cat\Desktop\CSE220\Exception.java LineNo = 1 ColNo = 14 Msg = 'The serializable class Exception does not declare a static final serialVersionUID field of type long'
+24 Jan 2018 17:55:51 GMT: Log 'EclipseCompiler.txt' opened: 24 Jan 2018 17:55:51 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\EclipseCompiler.txt
+26 Jan 2018 16:25:31 GMT: Log 'EclipseCompiler.txt' opened: 26 Jan 2018 16:25:31 GMT with name C:\Users\Schrodinger's Cat\Desktop\CSE220\EclipseCompiler.txt
+26 Jan 2018 16:25:36 GMT: diagnostics = javax.tools.DiagnosticCollector@e554fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a906fa
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\bhalu.java]
+26 Jan 2018 16:25:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3d9851' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+26 Jan 2018 16:25:37 GMT: Compiler call returned
+26 Jan 2018 16:25:48 GMT: diagnostics = javax.tools.DiagnosticCollector@136ccf3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d2f883
+fileObjects = [C:\Users\Schrodinger's Cat\Desktop\CSE220\bhalu.java]
+26 Jan 2018 16:25:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cfacc2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Schrodinger's Cat\Desktop\CSE220;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+26 Jan 2018 16:25:48 GMT: Compiler call returned

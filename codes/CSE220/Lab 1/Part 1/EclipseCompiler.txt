@@ -1,0 +1,1 @@
+23 Jan 2019 11:12:21 GMT: Log 'EclipseCompiler.txt' opened: 23 Jan 2019 11:12:21 GMT with name F:\Downloads\CSE220\CSE220\Lab 1\Part 1\EclipseCompiler.txt

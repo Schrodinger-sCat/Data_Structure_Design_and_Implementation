@@ -1,0 +1,92 @@
+29 Oct 2018 19:41:26 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2018 19:41:26 GMT with name F:\Downloads\CSE220\CSE220\Assignment 04\EclipseCompiler.txt
+29 Oct 2018 19:42:40 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2018 19:42:40 GMT with name F:\Downloads\CSE220\CSE220\Assignment 04\EclipseCompiler.txt
+29 Oct 2018 19:43:04 GMT: diagnostics = javax.tools.DiagnosticCollector@177e931
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dfd35
+fileObjects = [F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java]
+29 Oct 2018 19:43:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d6fb96' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\Downloads\CSE220\CSE220\Assignment 04;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+29 Oct 2018 19:43:04 GMT: Compiler call returned
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b6ab
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 6 ColNo = 32 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2f55e
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 7 ColNo = 33 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e7a4c3
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 13 ColNo = 42 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d8878b
+29 Oct 2018 19:43:04 GMT:  Kind = WARNING
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 6 ColNo = 15 Msg = 'java.util.Stack is a raw type. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a95043
+29 Oct 2018 19:43:04 GMT:  Kind = WARNING
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 29 ColNo = 21 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1282c8d
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 32 ColNo = 28 Msg = 'Cannot cast from java.lang.Object to char'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af5d57
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 33 ColNo = 33 Msg = 'Cannot invoke equals(char) on the primitive type char'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c6276
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 33 ColNo = 48 Msg = 'Cannot invoke equals(char) on the primitive type char'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d10bfa
+29 Oct 2018 19:43:04 GMT:  Kind = WARNING
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 34 ColNo = 25 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b91169
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 36 ColNo = 38 Msg = 'Cannot invoke compareTo(char) on the primitive type char'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a5a70c
+29 Oct 2018 19:43:04 GMT:  Kind = ERROR
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 36 ColNo = 56 Msg = 'Cannot invoke compareTo(char) on the primitive type char'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d475c
+29 Oct 2018 19:43:04 GMT:  Kind = WARNING
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 37 ColNo = 25 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a9197a
+29 Oct 2018 19:43:04 GMT:  Kind = WARNING
+29 Oct 2018 19:43:04 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 84 ColNo = 20 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2018 19:43:15 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2018 19:43:15 GMT with name F:\Downloads\CSE220\CSE220\Assignment 04\EclipseCompiler.txt
+29 Oct 2018 19:43:19 GMT: diagnostics = javax.tools.DiagnosticCollector@655e5a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f9e2a
+fileObjects = [F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java]
+29 Oct 2018 19:43:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9ca014' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, F:\Downloads\CSE220\CSE220\Assignment 04;C:\Users\Schrodinger's Cat\Desktop\drjava-beta-20160913-225446.exe]
+29 Oct 2018 19:43:20 GMT: Compiler call returned
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bb669e
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 6 ColNo = 32 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c2080d
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 7 ColNo = 33 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c41bbd
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 13 ColNo = 42 Msg = ''<>' operator is not allowed for source level below 1.7'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e540e9
+29 Oct 2018 19:43:20 GMT:  Kind = WARNING
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 6 ColNo = 15 Msg = 'java.util.Stack is a raw type. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65025b
+29 Oct 2018 19:43:20 GMT:  Kind = WARNING
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 29 ColNo = 21 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a2f0ba
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 32 ColNo = 28 Msg = 'Cannot cast from java.lang.Object to char'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14702c0
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 33 ColNo = 33 Msg = 'Cannot invoke equals(char) on the primitive type char'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@135ef89
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 33 ColNo = 48 Msg = 'Cannot invoke equals(char) on the primitive type char'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee57ae
+29 Oct 2018 19:43:20 GMT:  Kind = WARNING
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 34 ColNo = 25 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11f5009
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 36 ColNo = 38 Msg = 'Cannot invoke compareTo(char) on the primitive type char'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b1928
+29 Oct 2018 19:43:20 GMT:  Kind = ERROR
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 36 ColNo = 56 Msg = 'Cannot invoke compareTo(char) on the primitive type char'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed4f
+29 Oct 2018 19:43:20 GMT:  Kind = WARNING
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 37 ColNo = 25 Msg = 'Type safety: The method push(java.lang.Object) belongs to the raw type java.util.Stack. References to generic type java.util.Stack<E> should be parameterized'
+29 Oct 2018 19:43:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12083c6
+29 Oct 2018 19:43:20 GMT:  Kind = WARNING
+29 Oct 2018 19:43:20 GMT: Name = F:\Downloads\CSE220\CSE220\Assignment 04\CSE220Assignment04.java LineNo = 84 ColNo = 20 Msg = 'Resource leak: '<unassigned Closeable value>' is never closed'
+29 Oct 2018 19:44:38 GMT: Log 'EclipseCompiler.txt' opened: 29 Oct 2018 19:44:38 GMT with name F:\Downloads\CSE220\CSE220\Assignment 04\EclipseCompiler.txt
